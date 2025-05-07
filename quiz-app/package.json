@@ -1,9 +1,9 @@
 
 {
+  "homepage": "https://natti94.github.io/Quiz_Agil_Projektmetodik_Testning",
   "name": "quiz-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://natti94.github.io/Quiz_Agil_Projektmetodik_Testning",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
