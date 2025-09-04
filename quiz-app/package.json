@@ -1,16 +1,14 @@
-
 {
-  "homepage": "https://natti94.github.io/Quiz_Agil_Projektmetodik_Testning",
   "name": "quiz-app",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
+    "dotenv": "^17.2.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
